@@ -70,7 +70,6 @@ class Funcionario {
     }
 
     public void settaxad(double tax) {
-        this.taxad = taxad;
     }
 
     public double netSalary() {
