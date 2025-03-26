@@ -1,3 +1,5 @@
+package calculadoraSimples;
+
 import java.util.Scanner;
 
 public class CalculadoraSimples {

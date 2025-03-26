@@ -1,5 +1,6 @@
+package calculadoraSimples;
 
-    import java.util.Scanner;
+import java.util.Scanner;
 import java.text.DecimalFormat;
 
     public class CalculoDeMedia {
